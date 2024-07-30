@@ -4,9 +4,7 @@
 
 📋 Project Description
 
-The goal of this project is to analyze Diwali sales data and derive insightful information for the company. By utilizing Python to handle different facets of the sales data, we aim to generate valuable insights for the product 
-
-team. This analysis will offer helpful information on consumer preferences, sales trends, and operational effectiveness, ultimately aiding in strategic decision-making.
+The goal of this project is to analyze Diwali sales data and derive insightful information for the company. By utilizing Python to handle different facets of the sales data, we aim to generate valuable insights for the product team. This analysis will offer helpful information on consumer preferences, sales trends, and operational effectiveness, ultimately aiding in strategic decision-making.
 
 
 
