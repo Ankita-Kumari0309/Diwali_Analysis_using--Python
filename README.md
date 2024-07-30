@@ -84,8 +84,6 @@ The goal of this project is to analyze Diwali sales data and derive insightful i
 
 🏁 Conclusion
 
-This analysis of Diwali sales data using Python provides valuable insights that can help the product team make informed decisions to enhance marketing strategies, optimize inventory, and improve overall 
-
-customer satisfaction. By understanding sales trends and customer behavior, the company can strategically plan for future growth and success.
+This analysis of Diwali sales data using Python provides valuable insights that can help the product team make informed decisions to enhance marketing strategies, optimize inventory, and improve overall customer satisfaction. By understanding sales trends and customer behavior, the company can strategically plan for future growth and success.
 
    
